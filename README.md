@@ -119,4 +119,3 @@ python main.py
 ---
 
 
-Give it a star ⭐ on GitHub!
