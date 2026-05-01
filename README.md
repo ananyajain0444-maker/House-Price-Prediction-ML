@@ -74,12 +74,19 @@ python main.py
 
 ---
 
-## 📊 Outputs
+## 📸 Project Outputs
 
-* 📌 Heatmap & Pairplot
-* 📌 Actual vs Predicted Graph
-* 📌 Feature Importance Chart
-* 📌 Sample Prediction Output
+### 📊 Correlation Heatmap
+![Heatmap](images/heatmap.png)
+
+### 📈 Pairplot Analysis
+![Pairplot](images/pairplot.png)
+
+### 📉 Actual vs Predicted Prices
+![Prediction](images/prediction_vs_actual.png)
+
+### 🔍 Feature Importance
+![Feature Importance](images/feature_importance.png)
 
 ---
 
